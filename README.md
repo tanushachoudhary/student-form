@@ -49,18 +49,12 @@ JsonPowerDB is used to perform CRUD operation
   Make a folder in your system and clone the project using git bash then open the project in Visual Studio Code or any IDE you prefer.
   ##### Clone the project 
   ```
-  git clone https://github.com/Pranavvishwakarma/Micro_Project_Work_PranavVishwakarma.git
+  git clone https://github.com//tanushachoudhary/student-form.git
   ```
   After cloning 
   
-  Move to **public_html** and then **js** folder and in **script.js** file replace the **connectionToken** by with your Connection Token
+  Move to **index.html** and in **script.js** file replace the **connectionToken** by with your Connection Token
   
   # Sources
   * Introduction to JsonPowerDB - V2.0 course  on https://careers.login2explore.com/
   * [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) 
-  
-  
-
-  --------------------
-## Hope You Like the Project
-## Thank You
