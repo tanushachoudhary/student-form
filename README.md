@@ -34,16 +34,11 @@ JsonPowerDB is used to perform CRUD operation
 * **Initially**
 
 * **Fetching student data using roll number**
-  If student already present in database, then all field filled with that student information
-  
-  <img src="public_html/Images/existing_data.png">
-  otherwise, other fields are enabled after user input roll number
+  If student already present in database, then all field filled with that student information otherwise, other fields are enabled after user input roll number
   
 * **Updation of student details**
   In order to update student details input roll number, and then we can update the student data
-  
-  <img src="public_html/Images/update data.png">
-  
+    
 
 * **Adding new student data**
 
